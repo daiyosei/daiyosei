@@ -1,6 +1,6 @@
 # Haiii~ <img src="marisa-dance.webp" width="50px">
 I am a brown dude who likes making cool stuff with silicon. I am currently learning systems and graphics engineering.
-Computers and Touhou have been a large part of my life. My other hobbies include aviation, [photography](https://mastodon.social/@theindiandev),
+Computers and Touhou have been a large part of my life. My other hobbies include aviation, [photography](https://blog.theindiandev.in/gallery/),
 fountain-pens and Indian politics. I oscillate between INTP-T and INFP-T personality lol.
 
 Please feel free to contact me! All of my socials can be found at [my personal website](https://theindiandev.in). Moreover consider
