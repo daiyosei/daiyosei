@@ -18,7 +18,7 @@ are listed [here](https://blog.theindiandev.in/projects/).
 
 
 
-![](sakuya-null-pointer.png)
+![](scarlet-sister-nullpointer-banner.png)
 
 
 <p align="center">
