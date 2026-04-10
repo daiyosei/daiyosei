@@ -1,10 +1,10 @@
 # Haiii~ <img src="marisa-dance.webp" width="50px">
 I am a brown dude who likes making cool stuff with silicon. I am currently learning systems and graphics engineering.
 Computers and Touhou have been a large part of my life. My other hobbies include aviation, [photography](https://blog.theindiandev.in/gallery/),
-fountain-pens and Indian politics. I oscillate between INTP-T and INFP-T personality lol.
+fountain-pens and Indian politics. INFP-T btw.
 
 Please feel free to contact me! All of my socials can be found at [my personal website](https://theindiandev.in). Moreover consider
-checking out my blog at [blog.theindiandev.in](https://blog.theindiandev.in/). My email can be found on my profile,
+checking out my blog at [margatroid.moe](https://margatroid.moe/). My email can be found on my profile,
 [here's my gpg key](https://theindiandev.in/public/ritabrata.gpg), feel free to send an e-mail in Bengali, Hindi, English or Odia.
 
 My tech stack is usually python or nimlang but I have also used C++, Javascript and Bash quite often. All the cool things I have built
