@@ -22,11 +22,11 @@ are listed [here](https://blog.theindiandev.in/projects/).
 
 
 <p align="center">
-  <a href="https://octo-ring.com/p/the-indian-dev/prev" title="Previous Profile" style="text-decoration:none; color:inherit; font-size:1.2em;">◀</a>
+  <a href="https://octo-ring.com/p/daiyosei/prev" title="Previous Profile" style="text-decoration:none; color:inherit; font-size:1.2em;">◀</a>
       
-  <a href="https://octo-ring.com/p/the-indian-dev/random" title="Random Profile" style="text-decoration:none; color:inherit; font-size:1.2em;">🎲</a>
+  <a href="https://octo-ring.com/p/daiyosei/random" title="Random Profile" style="text-decoration:none; color:inherit; font-size:1.2em;">🎲</a>
       
-  <a href="https://octo-ring.com/p/the-indian-dev/next" title="Next Profile" style="text-decoration:none; color:inherit; font-size:1.2em;">▶</a>
+  <a href="https://octo-ring.com/p/daiyosei/next" title="Next Profile" style="text-decoration:none; color:inherit; font-size:1.2em;">▶</a>
   <br>
   <a href="https://octo-ring.com/" title="Join or learn more about the Octo Ring" style="text-decoration:none; color:inherit;">
     🐙💍 Octo Ring
