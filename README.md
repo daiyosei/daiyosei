@@ -7,7 +7,7 @@ Please feel free to contact me! All of my socials can be found at [my personal w
 checking out my blog at [margatroid.moe](https://margatroid.moe/). My email can be found on my profile,
 [here's my gpg key](https://theindiandev.in/public/ritabrata.gpg), feel free to send an e-mail in Bengali, Hindi, English or Odia.
 
-My tech stack is usually python or nimlang but I have also used C++, Javascript and Bash quite often. All the cool things I have built
+My tech stack is usually python or C++ but I have also used nimlang, Javascript and Bash quite often. All the cool things I have built
 are listed [here](https://blog.theindiandev.in/projects/).
 
 ![](https://img.shields.io/badge/Operating%20System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
